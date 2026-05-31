@@ -1,0 +1,6 @@
+method,psnr,ssim
+Gamma Correction,11.91,0.501
+GHE,15.58,0.398
+Sequential (CLAHE->SSR),15.9,0.421
+Sequential (SSR->CLAHE),16.06,0.418
+Proposed Parallel Fusion,17.27,0.526

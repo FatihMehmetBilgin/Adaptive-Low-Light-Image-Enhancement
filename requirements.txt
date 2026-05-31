@@ -1,0 +1,13 @@
+# COMP430 Final — Hybrid CLAHE-Retinex Low-Light Enhancement
+# Pure-Python, CPU-only stack. Pinned for reproducibility (dev: Python 3.14).
+numpy==2.4.6
+scipy==1.17.1
+opencv-python==4.13.0.92
+scikit-image==0.26.0
+matplotlib==3.10.9
+
+# BRISQUE no-reference metric (Module 7). NOTE: brisque 0.2.0 has an upstream
+# numpy>=2 bug in its feature fit; src/metrics.py patches scale_features at
+# runtime (values are correct, only the array shape is wrong). Pulls requests.
+brisque==0.2.0
+libsvm-official==3.37.0

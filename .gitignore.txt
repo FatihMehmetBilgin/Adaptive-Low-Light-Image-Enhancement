@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+data/
+experiments/
+.claude/
+proposal/
+claude.md
+*.pyc

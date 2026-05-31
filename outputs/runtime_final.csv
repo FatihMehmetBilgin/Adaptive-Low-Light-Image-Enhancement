@@ -1,0 +1,6 @@
+method,mean_ms,std_ms,fps
+Gamma Correction,4.67,0.04,214.0
+GHE,4.52,0.1,221.1
+Sequential (CLAHE->SSR),224.17,0.74,4.5
+Sequential (SSR->CLAHE),214.25,3.03,4.7
+Proposed Parallel Fusion,214.61,2.53,4.7

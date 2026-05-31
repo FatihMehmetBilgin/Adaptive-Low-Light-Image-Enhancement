@@ -1,0 +1,6 @@
+method,brisque,runtime_ms
+Gamma Correction,22.14,4.67
+GHE,44.38,4.52
+Sequential (CLAHE->SSR),42.7,224.17
+Sequential (SSR->CLAHE),43.24,214.25
+Proposed Parallel Fusion,34.42,214.61

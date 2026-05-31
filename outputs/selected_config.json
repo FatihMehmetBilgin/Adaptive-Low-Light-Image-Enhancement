@@ -1,0 +1,8 @@
+{
+  "clip_limit": 1.5,
+  "sigma": 120,
+  "selected_on": "our485",
+  "train_subset": 100,
+  "seed": 42,
+  "criterion": "mean SSIM"
+}
