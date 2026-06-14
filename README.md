@@ -2,7 +2,7 @@
 
 A purely mathematical, CPU-only low-light image enhancement pipeline that runs **Contrast Limited Adaptive Histogram Equalization (CLAHE)** and **Single-Scale Retinex (SSR)** *in parallel* on the HSV Value channel, then merges them with a per-image Shannon-entropy weight. Final-project submission for **COMP430 — Digital Image Processing**, Abdullah Gül University.
 
-Full write-up: [`paper/paper.pdf`](paper/paper.pdf).
+Full write-up: [`paper.pdf`](paper.pdf).
 
 ## Method at a glance
 
