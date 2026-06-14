@@ -1,0 +1,6 @@
+method,brisque
+Gamma Correction,30.06
+GHE,48.87
+Sequential (CLAHE->SSR),47.36
+Sequential (SSR->CLAHE),49.55
+Proposed Parallel Fusion,41.25
